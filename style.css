@@ -82,4 +82,5 @@ input[type="reset"]{
     margin-top: 20px;
     color: white;
     background-color: green;
+    transform: all 0.5s;
 }
